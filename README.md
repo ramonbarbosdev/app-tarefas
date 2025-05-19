@@ -1,0 +1,1 @@
+Este projeto consiste em uma aplicação de lista de tarefas (to-do list) desenvolvida com React Native. A principal funcionalidade é permitir que o usuário adicione, marque como concluída e remova tarefas, com uma interface intuitiva e responsiva.
